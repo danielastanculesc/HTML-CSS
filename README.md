@@ -5,5 +5,5 @@ I started from a CV template from the Figma platform: https://www.figma.com/file
 
 The project was made in VSCode.
 
-I created a website where I made my own CV.
+I created a website where I made a CV.
 
